@@ -1,0 +1,12 @@
+.red {
+    background-color: rgb(238, 92, 92);
+}
+
+.green {
+    background-color: darkcyan;
+}
+
+#cart {
+    margin-top: 20px;
+    padding: 10px;
+}
